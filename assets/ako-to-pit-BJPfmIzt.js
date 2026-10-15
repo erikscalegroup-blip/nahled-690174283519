@@ -1,0 +1,1 @@
+import{T as e,_ as t}from"./index-CTZ0E6t2.js";import{c as n,d as r,i,r as a,s as o,t as s}from"./sekcie-BgxSsKb5.js";var c=e(),l=()=>(0,c.jsxs)(`main`,{children:[(0,c.jsx)(n,{...t.ako,obr:r,alt:`Ručný mlynček a váha v tmavej kuchyni`}),(0,c.jsx)(s,{}),(0,c.jsx)(a,{}),(0,c.jsx)(o,{}),(0,c.jsx)(i,{})]});export{l as component};

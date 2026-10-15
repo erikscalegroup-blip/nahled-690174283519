@@ -1,0 +1,1 @@
+import{T as e,_ as t}from"./index-CTZ0E6t2.js";import{c as n,h as r,i,r as a,s as o,u as s}from"./sekcie-BgxSsKb5.js";var c=e(),l=()=>(0,c.jsxs)(`main`,{children:[(0,c.jsx)(n,{...t.kavy,obr:r,alt:`Matné čierne vrecko na kávu na tmavom kameni`}),(0,c.jsx)(i,{}),(0,c.jsx)(o,{}),(0,c.jsx)(s,{}),(0,c.jsx)(a,{})]});export{l as component};

@@ -1,0 +1,1 @@
+import{T as e}from"./index-CTZ0E6t2.js";import{t}from"./PravnaStranka-BuQD7lxZ.js";var n=e(),r=()=>(0,n.jsx)(t,{url:`/obchodne-podmienky`});export{r as component};

@@ -1,0 +1,1 @@
+import{T as e,_ as t}from"./index-CTZ0E6t2.js";import{c as n,m as r,n as i,o as a,r as o,s,u as c}from"./sekcie-BgxSsKb5.js";var l=e(),u=()=>(0,l.jsxs)(`main`,{children:[(0,l.jsx)(n,{...t.o,obr:r,alt:`Zrelé kávové čerešne na kríku`}),(0,l.jsx)(a,{}),(0,l.jsx)(s,{}),(0,l.jsx)(i,{}),(0,l.jsx)(c,{}),(0,l.jsx)(o,{})]});export{u as component};

@@ -1,0 +1,1 @@
+import{T as e,_ as t}from"./index-CTZ0E6t2.js";import{a as n,c as r,l as i,n as a,p as o,u as s}from"./sekcie-BgxSsKb5.js";var c=e(),l=()=>(0,c.jsxs)(`main`,{children:[(0,c.jsx)(r,{...t.kedy,obr:o,alt:`Čerstvo upražené zrná na chladiacej mise`}),(0,c.jsx)(n,{}),(0,c.jsx)(i,{}),(0,c.jsx)(a,{}),(0,c.jsx)(s,{})]});export{l as component};

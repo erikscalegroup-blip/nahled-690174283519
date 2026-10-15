@@ -1,0 +1,1 @@
+import{T as e,w as t}from"./index-CTZ0E6t2.js";import{i as n,r}from"./zaklad-lWc0GObb.js";var i=e(),a=()=>(0,i.jsx)(n,{children:(0,i.jsxs)(r,{children:[(0,i.jsx)(`h1`,{className:`t-nadpis`,children:`Táto káva teraz nie je v ponuke.`}),(0,i.jsx)(t,{to:`/kavy`,className:`btn btn-plne mt-8`,children:`Pozrieť kávy`})]})});export{a as notFoundComponent};
